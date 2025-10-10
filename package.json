@@ -1,0 +1,23 @@
+{
+  "name": "http",
+  "version": "1.0.0",
+  "description": "Este repositório tem como objetivo centralizar **todos os exercícios passados na disciplina de Backend** durante o curso de **Análise e Desenvolvimento de Sistemas** na **instituição Grau Técnico**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattheushmc/Exercicio-BE-GrauTec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattheushmc/Exercicio-BE-GrauTec/issues"
+  },
+  "homepage": "https://github.com/mattheushmc/Exercicio-BE-GrauTec#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
