@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
+
 let users = [
     { id: 1, name: "Ana Silva", email: "ana@email.com" },
     { id: 2, name: "Carlos Souza", email: "carlos@email.com" },
