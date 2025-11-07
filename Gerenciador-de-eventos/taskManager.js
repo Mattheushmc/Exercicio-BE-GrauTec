@@ -1,4 +1,3 @@
-// Importa o módulo events
 import { EventEmitter } from 'events';
 
 class TaskManager extends EventEmitter {
