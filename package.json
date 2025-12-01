@@ -1,7 +1,6 @@
 {
   "name": "http",
   "version": "1.0.0",
-  "type": "module",
   "description": "Este repositório tem como objetivo centralizar **todos os exercícios passados na disciplina de Backend** durante o curso de **Análise e Desenvolvimento de Sistemas** na **instituição Grau Técnico**.",
   "main": "index.js",
   "scripts": {
@@ -26,6 +25,8 @@
     "express": "^5.1.0",
     "express-session": "^1.18.2",
     "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.15.3",
+    "sequelize": "^6.37.7",
     "uuid": "^13.0.0"
   },
   "devDependencies": {
